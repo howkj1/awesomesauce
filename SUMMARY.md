@@ -7,7 +7,7 @@
 
 ## TLDR
 
-* Thoughts That Take Too Long To Say
+* [Thoughts That Take Too Long To Say](tldr/thoughts-that-take-too-long-to-say.md)
 
 ## Cognitive Brain Dump
 
