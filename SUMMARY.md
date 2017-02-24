@@ -12,3 +12,4 @@
 ## Cognitive Brain Dump
 
 * [Links To Another Dimension](links-to-another-dimension.md)
+* [Article](./articles/article.md)
