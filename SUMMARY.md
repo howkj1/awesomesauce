@@ -7,9 +7,9 @@
 
 ## TLDR
 
-* [Thoughts That Take Too Long To Say](thoughts-that-take-too-long-to-say.md)
+* [Thoughts That Take Too Long To Say](./articles/thoughts-that-take-too-long-to-say.md)
 
 ## Cognitive Brain Dump
 
-* [Links To Another Dimension](links-to-another-dimension.md)
+* [Links To Another Dimension](./articles/links-to-another-dimension.md)
 * [Article](./articles/article.md)
